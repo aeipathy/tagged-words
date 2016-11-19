@@ -1,0 +1,14 @@
+body {
+	background: #f0bfb6;
+	color: #fff;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 35px;
+	letter-spacing: 1.5px;
+	font-weight: bold;
+	font-style: italic;
+	text-transform: uppercase;
+	text-align: justify;
+	moz-text-align-last: justify;
+    text-align-last: justify;
+    line-height: 110%;
+}
